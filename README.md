@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+
 <div align="center">
   <a href="https://github.com/boyceyboycey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boyceyboycey&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@
   <a href="https://instagram.com/bad_.meets._evil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
   <a href = "mailto:thevishalsingh18092002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vishal-singh-0b247a1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vishal-singh-0b247a1b8/" target="_blank"></a>
 
  
 </div>
