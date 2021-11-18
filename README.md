@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br />
   <a href="https://leetcode.com/BOYCEYBOYCEY/" target="_blank"><img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo-200x200.png" align="center" alt="Rafa-React" height="40" width="40" ></a>
+  <a href="https://auth.geeksforgeeks.org/user/thevishalsingh18092002/profile" target="_blank"><img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo-200x200.png" align="center" alt="Rafa-React" height="40" width="40" ></a>
+
 
  
 </div>
